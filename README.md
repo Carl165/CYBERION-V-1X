@@ -29,7 +29,7 @@
 3, Copy the session and deploy on heroku.  
 
    
- - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10).***
+ - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/original/tree/main?tab=readme-ov-file).***
 
 
 ## Contributions
