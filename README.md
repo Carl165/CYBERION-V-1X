@@ -12,7 +12,7 @@
 
 1, Fork the repo
 
-   ***Click [`FORK`](https://github.com/ibrahimaitech/CarlTech/main) and `Star 👑 Repository` for Courage.***
+   ***Click [`FORK`](https://github.com/carl165/CarlTech/main) and `Star 🌟 repository`for Courage.***
   
 
 
@@ -20,7 +20,7 @@
 
 
   ***Click [`Get Session`](https://ibrahim-tech-1-4a7321f212d3.herokuapp.com/). ("Option 1")
-  
+  #Get session by pairing code
   
   ***Click [`Get Session`](https://ibrahim-tech-qr-1-2-1.onrender.com/). ("Option 2")
 
