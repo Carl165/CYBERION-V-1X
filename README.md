@@ -1,6 +1,6 @@
  <h1 align="center"> Carl William Technology</h1> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+CARL+SHARKMD+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+WILLIAM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+CARL+SHARK+MD+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+WILLIAM)](https://git.io/typing-svg)
 <p align="center"> Carl-shark MD, A Simple WhatsApp user BOT, Created by Carl William.
 </p>
 
