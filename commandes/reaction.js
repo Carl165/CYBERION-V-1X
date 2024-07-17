@@ -74,8 +74,8 @@ const generateReactionCommand = (reactionName, reactionEmoji) => {
 // ... (utilisation de la fonction generateReactionCommand pour créer des commandes de réaction)
 
 
-generateReactionCommand("bully", "👊");
-generateReactionCommand("cuddle", "🤗");
+generateReactionCommand("bully", "💪");
+generateReactionCommand("cuddle", "👩‍❤️‍👩");
 generateReactionCommand("cry", "😢");
 generateReactionCommand("hug", "😊");
 generateReactionCommand("awoo", "🐺");
