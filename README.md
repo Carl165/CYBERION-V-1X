@@ -12,7 +12,7 @@
 
 1, Fork the repo
 
-   ***Click [`FORK`](https://github.com/Carl165/CarlTech/edit/main) and `Star 🌟 repository`for Courage.***
+   ***Click [`FORK`](https://github.com/Carl165/CarlTech/edit/main/readme) and `Star 🌟 repository`for Courage.***
   
 
 
