@@ -1,8 +1,8 @@
- <h1 align="center"> Carl William Technology</h1> 
+ <h1 align="center"> Carl William Technology </h1> 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+CARL+SHARK+MD+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+WILLIAM)](https://git.io/typing-svg)
 <p align="center"> Carl-shark MD, A Simple WhatsApp user BOT, Created by Carl William.
-</p>
+<p align="centre"> Please follow the steps below to avoid bot sleeping  
 
 
 
@@ -14,33 +14,35 @@
 
 1, Fork the repo
 
-   ***Click [`FORK`](https://github.com/Carl165/CarlTech/fork) and `Star 🌟 repository`for Courage.***
+   ***Click [`FORK🍴`](https://github.com/Carl165/CarlTech/fork) and `Star 🌟 repository`for Courage.***
   
 
 
 2, Scan the code and link it with your Whatsapp.
 
 
-  ***Click [`Get Session`](https://ibrahim-tech-1-4a7321f212d3.herokuapp.com/). ("Option 1")
-  #Get session by pairing code
+
+   ***Click [`Get Session🆔️`](https://ibrahim-tech-1-4a7321f212d3.herokuapp.com/). ("Option 1")
   
-  ***Click [`Get Session`](https://ibrahim-tech-qr-1-2-1.onrender.com/). ("Option 2")
+  #Get `Session 🆔 `y pairing code
+  
+  ***Click [`Get Session🆔️`](https://ibrahim-tech-qr-1-2-1.onrender.com/). ("Option 2")
 i
 
    
-3, Copy the session and deploy on heroku.  
+3, Copy the `sessioID 🆔` and successfully deploy Carl-shark MD on heroku.  
 
    
- - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
+ - ***Now [`DEPLOY✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
 
 
 ## Contributions
 
-Contributions to CarlTech are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to Carl-shark MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 
-The CarlTech is released under the [MIT License](https://opensource.org/licenses/MIT).
+The Carl-shark MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the CarlTech  to enhance your conversations and make your WhatsApp experience more interesting!
 
