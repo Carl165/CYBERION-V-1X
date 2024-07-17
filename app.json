@@ -2,20 +2,20 @@
   "name":"CarlTech",
   "description":"bot whatsapp développé par Carl William",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/090fa0905ff1a111c0195.jpg",
+  "logo":"https://telegra.ph/file/164dd0daed27a5330f912.jpg",
   "repository":"https://github.com/carl165/CarlTech",
   "succes_url":"/",
   "stack":"container",
   "env":{
     "PREFIX":
     {
-      "description":"choose your prefix of bot",
+      "description":"choose the prefix for your bot",
       "value":".",
       "required":true
     },
     "AUTO_READ_STATUS":
     {
-      "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "description":"Your contact status will be read automatically(type yes to activate or no to deactivate  ; don't write in capital letter)",
       "value":"yes",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
