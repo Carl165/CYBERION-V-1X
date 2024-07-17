@@ -1,5 +1,5 @@
- <h1 align="center"> IBRAHIM-AI-10.10 </h1>
-<p align="center"> IBRAHIM-AI-10.10, A Simple WhatsApp user BOT, Created by France King.
+ <h1 align="center"> CarlTech </h1>
+<p align="center"> CarlTech, A Simple WhatsApp user BOT, Created by Carl William.
 </p>
 
 
@@ -12,7 +12,7 @@
 
 1, Fork the repo
 
-   ***Click [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main) and `Star 👑 Repository` for Courage.***
+   ***Click [`FORK`](https://github.com/ibrahimaitech/CarlTech/main) and `Star 👑 Repository` for Courage.***
   
 
 
@@ -34,16 +34,16 @@
 
 ## Contributions
 
-Contributions to IBRAHIM-AI-10.10 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to CarlTech are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 
-The IBRAHIM-AI-10.10 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The CarlTech is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversations and make your WhatsApp experience more interesting!
 
-## Developer:
+## Developer INFO:
 
 - <h1 align="center"> [**SUPPORTED GROUP**](https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj)
-- <h1 align="center"> [**DM THE OWNER IF HAVING ANY PROBLEM**](https://wa.me/message/74F2PC4JA4F3P1)
+- <h1 align="center"> [**DM THE OWNER IF HAVING ANY PROBLEM**](https://wa.link/c9qf2z)
 
