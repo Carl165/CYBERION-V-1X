@@ -12,7 +12,7 @@
 
 1, Fork the repo
 
-   ***Click [`FORK`](https://github.com/Carl165/CarlTech/tree/main) and `Star 🌟 repository`for Courage.***
+   ***Click [`FORK`](https://github.com/Carl165/CarlTech/fork) and `Star 🌟 repository`for Courage.***
   
 
 
@@ -23,7 +23,7 @@
   #Get session by pairing code
   
   ***Click [`Get Session`](https://ibrahim-tech-qr-1-2-1.onrender.com/). ("Option 2")
-
+i
 
    
 3, Copy the session and deploy on heroku.  
