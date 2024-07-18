@@ -7,10 +7,11 @@
 
 
 <img src="https://telegra.ph/file/164dd0daed27a5330f912.jpg" width="500" height="300"/>
-  `■■SUPPORT`🦁🦁🦁🦁🦁
+  `
+◆◆◆◆SUPPORT◇◇◇》》CARLTECH《《
 
 
-☆★☆How to safely deploy Carl-shark MD,■Follow the above steps
+☆★☆How to safely deploy Carl-shark MD,■Follow☣✅️ the above steps⬇️
 
 1, Fork the repo to encourage the `DEVELOPER`
 
