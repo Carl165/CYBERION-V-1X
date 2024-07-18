@@ -61,3 +61,6 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+NOT+RESPONCIBLE+FOR+ANY+WHATSAPP+BAN🪀)](https://git.io/typing-svg)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PROUDLY+CREATED+AND+PROGRAMMED+𝗕𝗬+A+GENZ🥸)](https://git.io/typing-svg)
