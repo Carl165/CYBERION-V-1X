@@ -7,12 +7,12 @@
 
 
 <img src="https://telegra.ph/file/164dd0daed27a5330f912.jpg" width="500" height="300"/>
+  `■■SUPPORT`🦁🦁🦁🦁🦁
 
 
+☆★☆How to safely deploy Carl-shark MD,■Follow the above steps
 
-### Setup
-
-1, Fork the repo
+1, Fork the repo to encourage the `DEVELOPER`
 
    ***Click [`FORK🍴`](https://github.com/Carl165/CarlTech/fork) and `Star 🌟 repository`for Courage.***
   
@@ -20,11 +20,11 @@
 
 2, Scan the code and link it with your Whatsapp.
 
-
+   ☆☆☆To get `Session ID` by pairing code★★★
 
    ***Click [`Get Session🆔️`](https://ibrahim-tech-1-4a7321f212d3.herokuapp.com/). ("Option 1")
   
-  #Get `Session 🆔 `y pairing code
+  #Get `Session 🆔 `》》》 SCANNING QR CODE 
   
   ***Click [`Get Session🆔️`](https://ibrahim-tech-qr-1-2-1.onrender.com/). ("Option 2")
 i
@@ -52,3 +52,5 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 - <h1 align="center"> [☆☆CONTACT■ CARLTECH HERE☆☆`](https://wa.link/c9qf2z)
  -<h1 align="center"> [`SUPPORTED BOT CHANNEL`](https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h)
  -<h1 align="center"> [■■■■■■□ 99% safe]
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+NOT+RESPONCIBLE+FOR+ANY+WHATSAPP+BAN🪀)](https://git.io/typing-svg)
