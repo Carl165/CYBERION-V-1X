@@ -1,5 +1,5 @@
 {
-  "name": "IBRAHIM-TECH",
+  "name": "CARL-TECH",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "IBRAHIM-TECH",
+    "CARL-TECH",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "Carl William"
   ],
-  "author": "France King",
+  "author": "Carl William",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
