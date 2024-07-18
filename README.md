@@ -9,6 +9,7 @@
 <img src="https://telegra.ph/file/164dd0daed27a5330f912.jpg" width="500" height="300"/>
   `
 ◆◆◆◆SUPPORT◇◇◇》》CARLTECH《《
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ☆★☆How to safely deploy Carl-shark MD,■Follow☣✅️ the above steps⬇️
