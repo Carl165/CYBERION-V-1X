@@ -1,14 +1,14 @@
 const util = require('util');
 const fs = require('fs-extra');
-const { zokou } = require(__dirname + "/../france/king");
-const { format } = require(__dirname + "/../france/mesfonctions");
+const { zokou } = require(__dirname + "/../carlwilliam");
+const { format } = require(__dirname + "/../carl/mesfonctions");
 const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
 
 zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
-    let { cm } = require(__dirname + "/../france//king");
+    let { cm } = require(__dirname + "/../carl//Tech");
     var coms = {};
     var mode = "public";
     
@@ -32,12 +32,12 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭────》《Carl☆𝗧𝗘𝗖𝗛》《────☣
-🔱 *User* : ${s.OWNER_NAME}
-🔱 *Mode* : ${mode}
-🔱 *Commands* : ${cm.length} 
-🔱 *Time* : ${temps} 
-🔱 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-🔰  ■CARL♧SHARK 𝗠𝗗《《《《 
+🦁 *User* : ${s.OWNER_NAME}
+🦁 *Mode* : ${mode}
+🦁 *Commands* : ${cm.length} 
+🦁 *Time* : ${temps} 
+🦁 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+✅️  ■CARL♧SHARK 𝗠𝗗《《《《 
 ╰─────✨✨🦁✨✨─────☣ \n\n`;
  
     let menuMsg=`  
