@@ -13,11 +13,14 @@
 
 
 ☆★☆How to safely deploy Carl-shark MD,■Follow☣✅️ the above steps⬇️
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 1, Fork the repo to encourage the `DEVELOPER`
 
    ***Click [`FORK🍴`](https://github.com/Carl165/CarlTech/fork) and `Star 🌟 repository`for Courage.***
-  
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ 
 
 
 2, Scan the code and link it with your Whatsapp.
@@ -47,6 +50,7 @@ Contributions to Carl-shark MD are welcome! If you have ideas for new features, 
 The Carl-shark MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the CarlTech  to enhance your conversations and make your WhatsApp experience more interesting!
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Developer INFO:
 
@@ -54,5 +58,6 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 - <h1 align="center"> [☆☆CONTACT■ CARLTECH HERE☆☆`](https://wa.link/c9qf2z)
  -<h1 align="center"> [`SUPPORTED BOT CHANNEL`](https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h)
  -<h1 align="center"> [■■■■■■□ 99% safe]
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+NOT+RESPONCIBLE+FOR+ANY+WHATSAPP+BAN🪀)](https://git.io/typing-svg)
