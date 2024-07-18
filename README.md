@@ -1,4 +1,5 @@
  <h1 align="center"> Carl William Technology </h1> 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+CARL+SHARK+MD+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+WILLIAM)](https://git.io/typing-svg)
 <p align="center"> Carl-shark MD, A Simple WhatsApp user BOT, Created by Carl William.
@@ -7,6 +8,7 @@
 
 
 <img src="https://telegra.ph/file/164dd0daed27a5330f912.jpg" width="500" height="300"/>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   `
 ◆◆◆◆SUPPORT◇◇◇》》CARLTECH《《
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
