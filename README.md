@@ -48,6 +48,6 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 
 ## Developer INFO:
 
-- <h1 align="center"> [**SUPPORTED GROUP**](https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj)
+- <h1 align="center"> [**SUPPORTED GROUP**]()
 - <h1 align="center"> [**DM THE OWNER IF HAVING ANY PROBLEM**](https://wa.link/c9qf2z)
-
+ -<h1 align="center"> [`SUPPORTED BOT CHANNEL`](https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h)
