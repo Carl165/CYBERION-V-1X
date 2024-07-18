@@ -159,13 +159,13 @@ setTimeout(() => {
             const FranceKing2 = "254750948696";
             const FranceKing3 = '254742063632';
             const sudo = await getAllSudoNumbers();
-            const superUserNumbers = [servBot, FranceKing, FranceKing1, FranceKing2, FranceKing3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
+            const superUserNumbers = [servBot, Carl William, Carl William1, Carl William2, Carl William3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
             const superUser = allAllowedNumbers.includes(auteurMessage);
             
-            var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
+            var dev = [Carl William, Carl William1,Carl William2,Carl William3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{IBRAHIM-MD}...[][]");
+            console.log("\t [][]...{CARL-SHARK-MD}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
