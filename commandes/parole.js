@@ -3,7 +3,7 @@ const axios =require("axios");
 
 
 zokou({ nomCom: "lyrics",
-        reaction: "✨",
+        reaction: "🎼",
         categorie: "Search" }, async (dest, zk, commandeOptions) => {
     
     const { repondre, arg, ms } = commandeOptions;  
@@ -18,7 +18,7 @@ zokou({ nomCom: "lyrics",
 
     if (lyrics.error) return repondre("no lyrics found");
 
-    let msg = `---------FLASH-MD-lyrics-finder--------
+    let msg = `---------Carl-shark-MD-lyrics-finder--------
 
 * *Artist :* ${lyrics.artist}
 
