@@ -20,14 +20,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-1, Fork the repo to encourage the `DEVELOPER`
+1✅️, Fork the repo to encourage the `DEVELOPER`
 
    ***Click [`FORK🍴`](https://github.com/Carl165/CarlTech/fork) and `Star 🌟 repository`for Courage.***
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 
 
-2, Scan the code and link it with your Whatsapp.
+2✅️, Scan the code and link it with your Whatsapp.
 
    ☆☆☆To get `Session ID` by pairing code★★★
 
@@ -39,10 +39,10 @@
 i
 
    
-3, Copy the `sessioID 🆔` and successfully deploy Carl-shark MD on heroku.  
+3✅️, Copy the `sessioID 🆔` and successfully deploy Carl-shark MD on heroku.  
 
    
- - ***Now [`DEPLOY✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
+ 🔰☑️- ***Now [`DEPLOY✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
 
 
 ## Contributions
@@ -68,5 +68,5 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+NOT+RESPONCIBLE+FOR+ANY+WHATSAPP+BAN🪀)](https://git.io/typing-svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PROUDLY+CREATED+AND+PROGRAMMED+𝗕𝗬+A+GENZ🥸)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PROUDLY+PROGRAMMED+𝗕𝗬+A+GENZ🥸)](https://git.io/typing-svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
