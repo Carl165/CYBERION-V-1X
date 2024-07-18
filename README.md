@@ -51,6 +51,7 @@ The Carl-shark MD is released under the [MIT License](https://opensource.org/lic
 
 Enjoy the diverse features of the CarlTech  to enhance your conversations and make your WhatsApp experience more interesting!
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Developer INFO:
 
@@ -64,3 +65,4 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PROUDLY+CREATED+AND+PROGRAMMED+𝗕𝗬+A+GENZ🥸)](https://git.io/typing-svg)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
