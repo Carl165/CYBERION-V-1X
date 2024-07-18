@@ -31,14 +31,14 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《Carl-𝗧𝗘𝗖𝗛》────☣
+╭────》《Carl☆𝗧𝗘𝗖𝗛》《────☣
 🔱 *User* : ${s.OWNER_NAME}
 🔱 *Mode* : ${mode}
 🔱 *Commands* : ${cm.length} 
 🔱 *Time* : ${temps} 
 🔱 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-🔰 CARL-SHARK 𝗠𝗗 𝗩20
-╰─────✨✨✨✨✨─────☣ \n\n`;
+🔰  ■CARL♧SHARK 𝗠𝗗《《《《 
+╰─────✨✨🦁✨✨─────☣ \n\n`;
  
     let menuMsg=`  
   ┆┆┆┆┆┆┆┆┆┆┆┆┆┆┆┆┆┆┆┆┆┆
