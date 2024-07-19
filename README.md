@@ -31,7 +31,7 @@
 
    ☆☆☆To get `Session ID` by pairing code★★★
 
-   ***Click [`Get Session🆔️`](https://ibrahim-tech-1-4a7321f212d3.herokuapp.com/). ("Option 1")
+   ***Click [`Get Session🆔️`](`/pair`https://github.com/Carl165/CarlTech`)" class="btn">pair code</button. ("Option 1")
   
   #Get `Session 🆔 `》》》 SCANNING QR CODE 
   
