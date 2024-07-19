@@ -70,3 +70,6 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PROUDLY+PROGRAMMED+𝗕𝗬+A+GENZ🥸)](https://git.io/typing-svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+DEPLOY AND USE WITH O% WORRIES
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
