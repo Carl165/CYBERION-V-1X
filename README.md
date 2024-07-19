@@ -31,13 +31,12 @@
 
    ☆☆☆To get `Session ID` by pairing code★★★
 
-   ***Click [`Get Session🆔️`](`/pair`https://github.com/Carl165/CarlTech`)" class="btn">pair code</button. ("Option 1")
-  
+   
   #Get `Session 🆔 `》》》 SCANNING QR CODE 
   
   ***Click [`Get Session🆔️`](https://ibrahim-tech-qr-1-2-1.onrender.com/). ("Option 2")
 i
-
+****Click [`Get sessioID`]<button onclick="window.open(`/pair`https://github.com/Carl165/CarlTech `)" class="btn">pair code</button>
    
 3✅️, Copy the `sessioID 🆔` and successfully deploy Carl-shark MD on heroku.  
 
