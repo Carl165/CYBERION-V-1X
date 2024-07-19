@@ -65,7 +65,7 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
  -<h1 align="center"> [■■■■■■■ 100% safe]
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=yellow&lines=■+■+■+■+■+■+■+CHARGING)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=yellow&lines=■■■■■■■■■■■■■CHARGING)](https://git.io/typing-svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PROUDLY+PROGRAMMED+𝗕𝗬+A+GENZ🥸)](https://git.io/typing-svg)
