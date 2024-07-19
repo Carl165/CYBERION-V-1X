@@ -1,6 +1,6 @@
 {
-  "name":"CarlTech",
-  "description":"bot whatsapp proudly déveloped by Carl William",
+  "name":"CARL-TECH",
+  "description":"bot whatsapp proudly déveloped and programmed by Carl William",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/164dd0daed27a5330f912.jpg",
   "repository":"https://github.com/carl165/CarlTech",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Carl-shark MD",
+      "value":"CARL-SHARK MD",
       "required":false
 
     } ,
@@ -96,7 +96,7 @@
     "value": "yes"
   },
   "PRESENCE":{
-    "description":"Mark your presence: O to indicate that you are online even if you are not. T to indicate that you are currently typing a message.  R to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
+    "description":"Mark your presence: online to indicate that you are online even if you are not. typing to indicate that you are currently typing a message.  recording to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
     "value":"",
     "required": false
   },
