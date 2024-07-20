@@ -34,7 +34,7 @@
    
   #Get `Session 🆔 `》》》 SCANNING QR CODE 
   
-  ***Click [`Get Session🆔️`](
+  
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -66,7 +66,7 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 
 ## Developer INFO:
 
-- <h1 align="center"> [☆☆SUPPORTED■□GROUP☆☆]()
+- <h1 align="center"> Here is the [`SUPPORTED☆》○《 GROUP`](https://chat.whatsapp.com/LgBAp1KjbCBHsgZMKi46aO)
 - <h1 align="center"> [☆☆CONTACT■ CARLTECH HERE☆☆`](https://wa.link/c9qf2z)
  -<h1 align="center"> here is my[`SUPPORTED BOT CHANNEL`](https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h)
  -<h1 align="center"> [■■■■■■■ 100% safe]
