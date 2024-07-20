@@ -6,7 +6,7 @@ zokou({ nomCom: "CarlTech", reaction: "🧑‍💻", nomFichier: __filename }, a
     let z = 'CARL-HD-PHOTO \n\n ' + "*ⁱᵇʳᵃʰⁱᵐ-ᵗᵉᶜʰ.*";
     let d = ' #KING'S';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/5c8bc70bf5ae0eb1697a7.jpg';
+    var img = 'https://telegra.ph/file/164dd0daed27a5330f912.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
