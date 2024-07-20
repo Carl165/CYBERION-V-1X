@@ -4,7 +4,7 @@ const yts = require("yt-search");
 const ytdl = require('ytdl-core');
 const fs = require('fs');
 
-zokou({ nomCom: "yts", categorie: "Search", reaction: "✋" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "yts", categorie: "Search", reaction: "🎦" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
   const query = arg.join(" ");
 
@@ -21,7 +21,7 @@ zokou({ nomCom: "yts", categorie: "Search", reaction: "✋" }, async (dest, zk, 
     for (let i = 0; i < 10; i++) {
       captions += `----------------\nTitle: ${resultat[i].title}\nTime : ${resultat[i].timestamp}\nUrl: ${resultat[i].url}\n`;
     }
-    captions += "\n======\n*powered by FLASH-MD*";
+    captions += "\n======\n*powered by CARL-SHARK MD*";
 
     // repondre(captions)
     zk.sendMessage(dest, { image: { url: resultat[0].thumbnail }, caption: captions }, { quoted: ms });
@@ -33,7 +33,7 @@ zokou({ nomCom: "yts", categorie: "Search", reaction: "✋" }, async (dest, zk, 
 zokou({
   nomCom: "ytmp4",
   categorie: "Download",
-  reaction: "🎥"
+  reaction: "🎬"
 }, async (origineMessage, zk, commandeOptions) => {
   const { arg, ms, repondre } = commandeOptions;
 
@@ -95,7 +95,7 @@ _*En cours de téléchargement...*_\n\n`
 zokou({
   nomCom: "ytmp3",
   categorie: "Download",
-  reaction: "💿"
+  reaction: "🎶"
 }, async (origineMessage, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
 
