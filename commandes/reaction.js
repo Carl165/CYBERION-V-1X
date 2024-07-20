@@ -76,8 +76,8 @@ const generateReactionCommand = (reactionName, reactionEmoji) => {
 
 generateReactionCommand("bully", "💪");
 generateReactionCommand("cuddle", "👩‍❤️‍👩");
-generateReactionCommand("cry", "😢");
-generateReactionCommand("hug", "😊");
+generateReactionCommand("cry", "😭");
+generateReactionCommand("hug", "🫂");
 generateReactionCommand("awoo", "🐺");
 generateReactionCommand("kiss", "😘");
 generateReactionCommand("lick", "👅");
@@ -88,13 +88,13 @@ generateReactionCommand("yeet", "🚀");
 generateReactionCommand("blush", "😊");
 generateReactionCommand("smile", "😄");
 generateReactionCommand("wave", "👋");
-generateReactionCommand("highfive");
-generateReactionCommand("handhold");
+generateReactionCommand("highfive"✋️");
+generateReactionCommand("handhold"🤝");
 generateReactionCommand("nom","👅" );
 generateReactionCommand("bite", "🦷");
 generateReactionCommand("glomp", "🤗");
 generateReactionCommand("slap", "👋");
-generateReactionCommand("kill", "💀");
+generateReactionCommand("kill", "☠️");
 generateReactionCommand("kick", "🦵");
 generateReactionCommand("happy", "😄");
 generateReactionCommand("wink", "😉");
