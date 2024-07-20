@@ -35,8 +35,14 @@
   #Get `Session 🆔 `》》》 SCANNING QR CODE 
   
   ***Click [`Get Session🆔️`](
+  
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=Editing+IN+PROGRESS+OFFICIALLY+𝗕𝗬+CARL)](https://git.io/typing-svg)).
-i
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
 ****Click [`Get sessioID`]()
 
 
