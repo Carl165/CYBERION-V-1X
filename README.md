@@ -36,8 +36,7 @@
   
   ***Click [`Get Session🆔️`](https://ibrahim-tech-qr-1-2-1.onrender.com/).
 i
-****Click [`Get sessioID`]<button onclick="window.open(`/pair`https://github.com/Carl165/CarlTech `)" class="btn">pair code</button>.
-   
+****Click [`Get sessioID`](herokuapp.com/https://github.com/Carl165/CarlTech/qr`)" class="btn">qr code</button>
 3✅️, Copy the `sessioID 🆔` and successfully deploy Carl-shark MD on heroku.  
 
    
