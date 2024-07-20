@@ -34,9 +34,12 @@
    
   #Get `Session 🆔 `》》》 SCANNING QR CODE 
   
-  ***Click [`Get Session🆔️`](https://ibrahim-tech-qr-1-2-1.onrender.com/).
+  ***Click [`Get Session🆔️`](
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=Editing+IN+PROGRESS+OFFICIALLY+𝗕𝗬+CARL)](https://git.io/typing-svg)).
 i
-****Click [`Get sessioID`](https://github.com/Carl165/njo-p-co/)
+****Click [`Get sessioID`]()
+
+
 3✅️, Copy the `sessioID 🆔` and successfully deploy Carl-shark MD on heroku.  
 
    
