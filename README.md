@@ -22,7 +22,7 @@
 
 1✅️, Fork the repo to encourage the `DEVELOPER`
 
-   ***Click➡️⏩️ [`FORK🍴`](https://github.com/Carl165/CarlTech/fork) and `Star 🌟 repository`for encouragement.***
+   ***Click➡️⏩️ [`FORK🍴`](https://github.com/Carl165/CarlTech/fork) and `Star ☆repository`for encouragement.***
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 
