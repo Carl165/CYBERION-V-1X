@@ -66,5 +66,5 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 
 ## Developer INFO:
    CONTACT CARLTECH HERE 
-KINDLY CONTACTMEHERE FOR ANY ISSUE➡️➡️[`CARLTECH`](https://github.com/Carl165/CARLTECH-INFO)⬅️⬅️TAP HERE TO CONTACT ME 
+➡️➡️[`CARLTECH`](https://github.com/Carl165/CARLTECH-INFO)⬅️⬅️TAP HERE TO CONTACT ME 
 
