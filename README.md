@@ -9,7 +9,7 @@
 
 
 
-<img src="https://telegra.ph/file/164dd0daed27a5330f912.jpg" width="500" height="300"/>
+<img src="https://telegra.ph/file/164dd0daed27a5330f912.jpg" width="300" height="300"/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   `
 ◆◆◆◆SUPPORT◇◇◇》》CARLTECH《《》》》♥︎♡♥︎◆◇♣︎♧★☆
