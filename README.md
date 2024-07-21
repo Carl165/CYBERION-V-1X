@@ -50,6 +50,9 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Developer INFO:
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    CONTACT CARLTECH HERE 
 ➡️➡️[`CARLTECH`](https://github.com/Carl165/CARLTECH-INFO)⬅️⬅️TAP HERE TO CONTACT ME 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
