@@ -1,7 +1,7 @@
 9 <h1 align="center"> Carl William Technology </h1> 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+CARL+SHARK+MD+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+WILLIAM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+CARL+SHARK+MD+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+CARL)](https://git.io/typing-svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center"> Carl-shark MD, A Simple WhatsApp user BOT, Created by Carl William.
@@ -21,11 +21,12 @@
 
    ☆☆☆To get `Session ID` by pairing code★★★
 
-    #Get `Session 🆔 `》》》 SCANNING QR CODE 
+  #Get `Session 🆔 `》》》 SCANNING QR CODE 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=Editing+IN+PROGRESS+OFFICIALLY+𝗕𝗬+CARL)](https://git.io/typing-svg)EDITING IN PROGRESS BY CARL
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ****Click [`Get sessioID`]()
 
 
