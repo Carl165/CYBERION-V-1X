@@ -6,7 +6,7 @@
 
 <p align="center"> Carl-shark MD, A Simple WhatsApp user BOT, Created by Carl William.
 <p align="centre"> Please follow the steps below to avoid bot sleeping  
-<img src="https://telegra.ph/file/164dd0daed27a5330f912.jpg" width="400" height="200"/>
+<img src="https://telegra.ph/file/164dd0daed27a5330f912.jpg" width="400" height="300"/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   `
 ◆◆◆◆SUPPORT◇◇◇》》CARLTECH《《》》》♥︎♡♥︎◆◇♣︎♧★☆
