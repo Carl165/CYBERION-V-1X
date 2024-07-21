@@ -1,4 +1,4 @@
-9 <h1 align="center"> Carl William Technology </h1> 
+ <h1 align="center"> Carl William Technology </h1> 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=CARL+SHARK+MD+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+CARL)](https://git.io/typing-svg)
