@@ -5,7 +5,7 @@ const { writeFile } = require('fs/promises')
 
 // Commande waifu
 zokou({
-  nomCom: "Ibrahimking",
+  nomCom: "Carl",
   categorie: "Weeb",
   reaction: "😏"
 },
@@ -29,9 +29,9 @@ async (origineMessage, zk, commandeOptions) => {
 
 // Commande neko
 zokou({
-  nomCom: "Ibrahimadams",
+  nomCom: "William",
   categorie: "Weeb",
-  reaction: "☣"
+  reaction: "😉"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
@@ -52,14 +52,14 @@ async (origineMessage, zk, commandeOptions) => {
 
 // Commande shinobu
 zokou({
-  nomCom: "king",
+  nomCom: "King",
   categorie: "Weeb",
   reaction: "👑"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const url = 'https://telegra.ph/file/b36524472cabd4541d399.jpg'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API avec des images de Shinobu
+  const url = 'https://telegra.ph/file/10293b39bc439c0abc513.jpg'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API avec des images de Shinobu
 
   try {
     for (let i = 0; i < 5; i++) {
@@ -75,14 +75,14 @@ async (origineMessage, zk, commandeOptions) => {
 
 // Commande megumin
 zokou({
-  nomCom: "Ibraah",
+  nomCom: "CarlTech",
   categorie: "Weeb",
-  reaction: "☣"
+  reaction: "🦁"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const url = 'https://telegra.ph/file/87f7a9aab043c0a4d3ee1.jpg'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API avec des images de Megumin
+  const url = 'https://telegra.ph/file/5c8bc70bf5ae0eb1697a7.jpg'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API avec des images de Megumin
 
   try {
     for (let i = 0; i < 5; i++) {
@@ -99,9 +99,9 @@ async (origineMessage, zk, commandeOptions) => {
 
 
 zokou({
-  nomCom: "kingibrahim",
+  nomCom: "Kingcarl",
   categorie: "Weeb",
-  reaction: "☣"
+  reaction: "🫅"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
@@ -110,7 +110,7 @@ async (origineMessage, zk, commandeOptions) => {
 
   try {
     for (let i = 0; i < 5; i++) {
-      let url = 'https://telegra.ph/file/ecc3e71f3e224e2ead026.jpg'
+      let url = 'https://telegra.ph/file/a28d7efa5b0d14219d4d4.jpg'
       
    const response = await   axios.get(url, { responseType: 'arraybuffer' })
 
@@ -128,7 +128,7 @@ async (origineMessage, zk, commandeOptions) => {
 
 
 zokou({nomCom:"king",categorie: "Weeb",reaction : "💞"},async(dest,zk,commandeOptions)=>{ const {repondre , ms} = commandeOptions;
-    let api = 'https://telegra.ph/file/ecc3e71f3e224e2ead026.jpg'
+    let api = 'https://telegra.ph/file/a28d7efa5b0d14219d4d4.jpg'
   try {
      repondre('she/he dont love you :)')
  const result = await axios.get(api)
