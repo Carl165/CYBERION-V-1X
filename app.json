@@ -1,21 +1,21 @@
 {
-  "name":"CARL-TECH",
-  "description":"bot whatsapp proudly déveloped and programmed by Carl William",
+  "name":"BMW-MD",
+  "description":"Best whatsapp bot developed by Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/164dd0daed27a5330f912.jpg",
-  "repository":"https://github.com/carl165/CarlTech",
+  "logo":"https://telegra.ph/file/7ec4aa710486c41fa26d6.jpg",
+  "repository":"https://github.com/ibraahadam/BMW-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
     "PREFIX":
     {
-      "description":"choose the prefix for your bot",
+      "description":"choose your prefix of bot",
       "value":".",
       "required":true
     },
     "AUTO_READ_STATUS":
     {
-      "description":"Your contact status will be read automatically(type yes to activate or no to deactivate  ; don't write in capital letter)",
+      "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"CARL-SHARK MD",
+      "value":"BMW-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
-      "description":"do not add o  any link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/164dd0daed27a5330f912.jpg",
+      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
+      "value":"https://telegra.ph/file/7ec4aa710486c41fa26d6.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "CARL WILLIAM "
+    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254740271632"
+    "value": "254739937062,254710772666"
   },
     "WARN_COUNT":
   {
@@ -96,27 +96,38 @@
     "value": "yes"
   },
   "PRESENCE":{
-    "description":"Mark your presence: online to indicate that you are online even if you are not. typing to indicate that you are currently typing a message.  recording to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
+    "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
     "value":"",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
     "value": "yes",
-    "required": false
+        "required": false
   }
   },
 
-  "formation": {
-		"worker": {
-			"quantity": 1,
-			"size": "basic"
-		}
-	},
-
-  "addons":[
+    "buildpacks": [
     {
-      "plan":"heroku-postgresql"
+      "url": "heroku/nodejs"
+    },
+
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "standard-2x"
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql:essential-0"
     }
   ]
 }

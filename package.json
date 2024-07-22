@@ -1,23 +1,23 @@
 {
-  "name": "CARL-TECH",
+  "name": "Bmw-md",
   "version": "2.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "ibrahim.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node index.js",
-    "zokou": "pm2 start index.js --attach --max-memory-restart 490M",
+    "s": "node ibrahim.js",
+    "bmwmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "CARL-TECH",
+    "Bmw-md",
     "whatsapp",
     "whatsapp-bot",
-    "Carl William"
+    "bmw-md-boy"
   ],
-  "author": "Carl William",
+  "author": "ibraahadam",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -34,12 +34,13 @@
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.3.1",
     "ffmpeg": "^0.0.4",
-    "file-type": "16.5.4",
+    "file-type": "16.5.3",
     "fluent-ffmpeg": "^2.1.2",
     "form-data": "^4.0.0",
     "fs-extra": "^11.1.1",
     "g-i-s": "^2.1.7",
     "gist": "^0.2.0",
+     "genius-lyrics": "^4.4.3", 
     "google-it": "^1.6.4",
     "google-tts-api": "latest",
     "heroku-client": "^3.1.0",
@@ -65,6 +66,6 @@
     "youtube-yts": "^2.0.0",
     "youtubedl-core": "^4.11.7",
     "yt-search": "^2.10.4",
-    "ytdl-core": "^4.10.0"
+    "ytdl-core": "github:franceking1/flash-dls"
   }
 }
