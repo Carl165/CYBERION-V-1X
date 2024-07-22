@@ -1,12 +1,12 @@
 {
-  "name": "Bmw-md",
+  "name": "Carl-md",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "index.js.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node ibrahim.js",
-    "bmwmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
+    "s": "node index.js.js",
+    "bmwmd": "pm2 start index.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
@@ -17,7 +17,7 @@
     "whatsapp-bot",
     "bmw-md-boy"
   ],
-  "author": "ibraahadam",
+  "author": "carl",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
