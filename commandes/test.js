@@ -1,10 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "repo", reaction: "🦁", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "repo", reaction: "🦈", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'SSUP MAH KILLY🫠𝗧𝗛𝗜𝗦 𝗜𝗦 CARL-TECH  \n\n ' + "𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗥𝗘𝗣𝗢 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗬𝗢𝗨𝗥 𝗢𝗪𝗡 𝗕𝗢𝗧 *CARL-SHARK MD*𝗥𝗘𝗣𝗢.*";
-    let d = ' https://github.com/CARL165/CarlTech/tree/main';
+    let z = 'GOTHA🤛MGOTHE👊𝗧𝗛𝗜𝗦 𝗜𝗦 CARL-TECH  \n\n ' + "𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗥𝗘𝗣𝗢 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗬𝗢𝗨𝗥 𝗢𝗪𝗡 𝗕𝗢𝗧 *CARL-SHARK MD*𝗥𝗘𝗣𝗢.*";
+    let d = ' https://github.com/CARL165/CarlTech';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/8f81e66a36603ff7bdba5.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
