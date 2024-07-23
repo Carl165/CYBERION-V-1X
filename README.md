@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=CARL+SHARK+MD+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+CARL)](https://git.io/typing-svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p align="center"> Carl-shark MD, A Simple WhatsApp user BOT, Created by Carl William.
+<p align="center"> ⚔️CARL-SHARK⚔️ 🦈 MD A Simple WhatsApp user BOT, Created by Carl William.
 <p align="centre"> Please follow the steps below to avoid bot sleeping  
 <img src="https://telegra.ph/file/164dd0daed27a5330f912.jpg" width="500" height="400"/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -29,6 +29,8 @@
 
 
   3:⚙️ 🦁TO DEPLOY YOUR BOT🦁***Now [`DEPLOY✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## Contributions
