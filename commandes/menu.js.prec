@@ -35,20 +35,20 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
       
     ╚═════ ✨✨ ☬ ✨✨ ═════╝*/
     /* menuMsg+=`
-   ╔════\☆✨️ĆÅŘŁ-MÐ/════╗
+   ╔════\☆✨️ĆÅŘŁ-ŜĤÅŘK MÐ/════╗
   
-   ||     Starter : ${s.prefixe}
+   ||     Prefix : ${s.prefixe}
    ||      Owner : ${s.OWNER_NAME}
    ||      Commands : ${cm.length}
    ||      Date : ${date}
    ||      Hour : ${temps}
    ||      Mém: ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
-   ||  Developer :Carl William 
+   ||  Developer :CARL WILLIAM 
    ||
    ╚════ ✨✨ ☬ ✨✨ ════╝`;*/
     menuMsg += `
 ╔════----*ÇÅŘŁ-TEÇĤ-----
-║    Starter : ${s.PREFIXE}
+║    Prefix : ${s.PREFIXE}
 ║    Owner : ${s.OWNER_NAME}    
 ║    Mode : ${mode}
 ║    Commands :${cm.length}
