@@ -28,7 +28,7 @@
 
 
 
-   ♥︎FINALLY🦁 ☑️- ***Now [`DEPLOY✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
+   ♤TO DEPLOY YOUR BOT☆***Now [`DEPLOY✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
 
 
 ## Contributions
