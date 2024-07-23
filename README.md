@@ -18,23 +18,16 @@
 
    ***Click➡️⏩️ [`FORK🍴`](https://github.com/Carl165/CarlTech/fork) and `Star ☆repository`for encouragement.***
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- 2✅️, Scan the code and link it with your Whatsapp.
-
-   ☆☆☆To get `Session ID` by pairing code★★★
-
-  #Get `Session 🆔 `》》》 SCANNING QR CODE 
+ 2✅️,Click[`HERE`](https://github.com/Carl165/SESSION_SITE)TO GO TO THE SESSION-SITE AND GET THE SESSION ID
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=Editing+IN+PROGRESS+OFFICIALLY+𝗕𝗬+CARL)](https://git.io/typing-svg)EDITING IN PROGRESS BY CARL
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=Editing+IN+PROGRESS+𝗕𝗬+CARL)](https://git.io/typing-svg)EDITING IN PROGRESS BY CARL
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-****Click [`Get sessioID`]()
 
 
-3✅️, Copy the `sessioID 🆔` and successfully deploy Carl-shark MD on heroku.  
 
-   
-♥︎FINALLY🦁 ☑️- ***Now [`DEPLOY✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
+   ♥︎FINALLY🦁 ☑️- ***Now [`DEPLOY✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
 
 
 ## Contributions
