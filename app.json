@@ -1,6 +1,6 @@
 {
-  "name":"CARL-SHARK MD",
-  "description":"Best whatsapp bot developed by Carl Williams",
+  "name":"𝐂𝐀𝐑𝐋-𝐒𝐇𝐀𝐑𝐊-𝐌𝐃",
+  "description":"Best whatsapp bot developed by 𝑪𝑨𝑹𝑳 𝑾𝑰𝑳𝑳𝑰𝑨𝑴",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/164dd0daed27a5330f912.jpg",
   "repository":"https://github.com/CARL165/CarlTech",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"CARL-SHARK MD",
+      "value":"𝐂𝐀𝐑𝐋-𝐒𝐇𝐀𝐑𝐊-𝐌𝐃",
       "required":false
 
     } ,
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Carl William"
+    "value": "𝐂𝐀𝐑𝐋 𝐖𝐈𝐋𝐋𝐈𝐀𝐌"
   },
     "NUMERO_OWNER":
   {
