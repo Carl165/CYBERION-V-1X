@@ -46,7 +46,7 @@ zokou({ nomCom: "dragonball", categorie: "Logo", reaction: "🐉" }, async (dest
     }
 });
 ////////////////////////////
-zokou({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "naruto", categorie: "Logo", reaction: "🎎" }, async (dest, zk, commandeOptions) => {
     let { ms, arg, repondre, prefixe } = commandeOptions;
     try {
         if (!arg || arg == '') {
@@ -91,7 +91,7 @@ zokou({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk,
 zokou({ nomCom: "didong", categorie: "Logo", reaction: "🔔" }, async (dest, zk, commandeOptions) => {
     let { arg, repondre, prefixe, ms } = commandeOptions;
    try {
-     var titre = "\t *Logo by FLASH-MD*";
+     var titre = "\t *Logo by CARL-SHARK-MD*";
       var lien = "https://ephoto360.com/tao-anh-che-vui-tu-choi-cuoc-goi-voi-ten-cua-ban-930.html";
         if (!arg || arg == "") {
            repondre(`*exemple :* ${prefixe}didong King ibrahim`)
@@ -212,7 +212,7 @@ zokou({nomCom: "devil", categorie: "Logo", reaction: "😈"}, async (dest, zk, c
 ////////////////////
 zokou(
   {nomCom:"boom",categorie:
-    "Logo",reaction:"💥"},async(dest,zk,commandeOptions)=>{
+    "Logo",reaction:"🧨"},async(dest,zk,commandeOptions)=>{
 
     let {ms,repondre,prefixe,arg}=commandeOptions;
 
@@ -434,7 +434,7 @@ zokou({nomCom:"purple",categorie:"Logo",reaction:"🧳"},async(dest,zk,commandeO
     try{
       if(!arg||arg=="")
   {
-    repondre(prefixe+"purple Flash");return;}
+    repondre(prefixe+"purple SHARK");return;}
       const lien="https://en.ephoto360.com/purple-text-effect-online-100.html"
       var img = await mumaker.ephoto(lien,arg);
       repondre(" processing ...")
@@ -450,7 +450,7 @@ zokou({nomCom:"gold",categorie:"Logo",reaction:"🧚🏿‍♀️"},async(dest,z
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"gold IBRAHIM-TECH");return;
+        repondre(prefixe+"gold CARL-TECH");return;
       }
 
     var lien="https://en.ephoto360.com/modern-gold-4-213.html";
@@ -469,7 +469,7 @@ zokou({nomCom:"arena",categorie:"Logo",reaction:"🥵"},async(dest,zk,commandeOp
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"arena IBRAHIM-TECH");return;
+        repondre(prefixe+"arena CARL-TECH");return;
       }
 
     var lien="https://en.ephoto360.com/create-cover-arena-of-valor-by-mastering-360.html";
@@ -487,7 +487,7 @@ zokou({nomCom:"incandescent",categorie:"Logo",reaction:"😋"},async(dest,zk,com
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"incandescent Flash-MD");return;
+        repondre(prefixe+"incandescent SHARK-MD");return;
       }
 
     var lien="https://en.ephoto360.com/text-effects-incandescent-bulbs-219.html";
