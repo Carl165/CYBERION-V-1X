@@ -692,7 +692,7 @@ ${metadata.desc}
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
-            let msg = `Goodbye to that Fallen soldier, Powered by *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*;\n`;
+            let msg = `Goodbye to that Fallen soldier, Powered by *𝐂𝐀𝐑𝐋-𝐒𝐇𝐀𝐑𝐊 𝐌𝐃*;\n`;
 
             let membres = group.participants;
             for (let membre of membres) {
@@ -861,25 +861,25 @@ ${metadata.desc}
 *『𝗖𝗔𝗥𝗟-𝗦𝗛𝗔𝗥𝗞-𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗*
 
     
-║❒Creator: *𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠*
-║❒Prefix : [ ${prefixe} ]
-║❒Mode :${md}
-║❒Created on : *22.6.2024*
-║❒Total Commands : ${evt.cm.length}︎
-
+╽❒Creator: *𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠*
+┃❒Prefix : [ ${prefixe} ]
+┃❒Mode :${md}
+┃❒Created on : *22.6.2024*
+╿❒Total Commands : ${evt.cm.length}︎
+  ✦𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐂𝐀𝐑𝐋𝐓𝐄𝐂𝐇✦
    
  
 
+╔═════════ 🧡💙💚🧡 ═════════╗
+╽☢ *𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓𝐄𝐃 𝐁𝐎𝐓 𝐆𝐑𝐎𝐔𝐏*
+┃☢https://chat.whatsapp.com/LgBAp1KjbCBHsgZMKi46aO
 
-║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-|https://chat.whatsapp.com/LgBAp1KjbCBHsgZMKi46aO
+┃☢ *CONTACT THE DEVELOPER* 🪄 
+┃☢https://wa.link/c9qf2z
 
-╽❒ *CONTACT THE DEVELOPER* 🪄 
-┃https://wa.link/c9qf2z
-
-║❒ *TELEGRAM*
-https://t.me/Carl
-┗━━━━━❂¤¤¤¤¤¤¤¤¤¤¤❂━━━━━┛
+┃☢ *TELEGRAM*
+╿☢https://t.me/Carl
+┗━━━━━❂¤¤¤¤¤💖¤¤¤¤¤¤❂━━━━━┛
 
 
               *𝗦𝗛𝗔𝗥𝗞-𝗠𝗗*`;
