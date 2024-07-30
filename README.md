@@ -25,7 +25,7 @@
 
 
 
-  3:⚙️ 🦁TO DEPLOY YOUR BOT🦁***Now [`𝑫𝑬𝑷𝑳𝑶𝒀 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
+  3:⚙️ 🦁TO DEPLOY YOUR BOT🦁***Now [`𝑫𝑬𝑷𝑳𝑶𝒀 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/Carl-Shark-MD/edit/tree/main?tab=readme-ov-file).***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -35,7 +35,7 @@ Contributions to Carl-shark MD are welcome! If you have ideas for new features, 
 
 ## License
 
-The Carl-shark MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The Carl-shark MD is released under the [`MIT License`](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the CarlTech  to enhance your conversations and make your WhatsApp experience more interesting!
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
