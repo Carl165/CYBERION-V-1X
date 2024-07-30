@@ -21,13 +21,13 @@
  2✅️,TO GET SESSION 🆔 CLICK[`HERE`](https://github.com/Carl165/SESSION_SITE)TO GO TO THE SESSION-SITE AND GET THE SESSION ID
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=Editing+IN+PROGRESS+𝗕𝗬+CARL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
 
-  3:⚙️ 🦁TO DEPLOY YOUR BOT🦁***Now [`𝑫𝑬𝑷𝑳𝑶𝒀✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
+  3:⚙️ 🦁TO DEPLOY YOUR BOT🦁***Now [`𝑫𝑬𝑷𝑳𝑶𝒀 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
