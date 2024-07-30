@@ -13,7 +13,7 @@
 
 ##𝑭𝑶𝑳𝑳𝑶𝑾 𝑻𝑯𝑬 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝑺𝑻𝑬𝑷𝑺 𝑻𝑶 𝑫𝑬𝑷𝑳𝑶𝒀 𝑪𝑨𝑹𝑳-𝑺𝑯𝑨𝑹𝑲-𝑴𝑫
  
-1✅️, Fork the repo to encourage the [`𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹`](https://github.com/Carl165) 
+1✅️, Fork the repo to encourage the [`❣️💞💜💚💙𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹🌟🦾🤖`](https://github.com/Carl165) 
 
    ***Click➡️⏩️ [`𝑭𝑶𝑹𝑲🍴`](https://github.com/Carl165/CarlTech/fork) and `Star ☆repository`for encouragement.***
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
