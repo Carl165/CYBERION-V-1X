@@ -29,7 +29,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-
 ## Contributions
 
 Contributions to Carl-shark MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
@@ -41,13 +40,16 @@ The Carl-shark MD is released under the [MIT License](https://opensource.org/lic
 Enjoy the diverse features of the CarlTech  to enhance your conversations and make your WhatsApp experience more interesting!
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-
 ## Developer INFO:
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    CONTACT CARLTECH HERE 
 ➡️➡️[`𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯`](https://github.com/Carl165/CARLTECH-INFO)⬅️⬅️TAP HERE TO CONTACT ME 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-▒▒▒▒▒▒░░░░░░░▓▓▓▓▓▓▓▓▓▆▆▆▆▆▆▀▀▀▀▀▀▀▀▆▆▆▆■■■■■▱▱▱▱▱▰▰▰▰▰▰▱▰▰▰▰▰▱▰■▰❏❐❑
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗧𝗛𝗔𝗡𝗞𝗦+𝗧𝗢+𝗧𝗛𝗘+𝗙𝗢𝗟𝗟𝗢𝗪𝗜𝗡𝗚+💙💙💞)](https://git.io/typing-svg)
+1✦ 𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗔𝗗𝗔𝗠𝗦:𝖥𝗈𝗋 𝖺𝗌𝗌𝗂𝗌𝗍𝖺𝗇𝖼𝖾.𝗈𝗇 𝗆𝗈𝗌𝗍 𝖼𝗈𝗆𝗆𝖺𝗇𝖽𝗌
+2✦𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛:𝖥𝗈𝗋 𝖼𝗈𝗆𝗂𝗇𝗀 𝗎𝗉 𝗐𝗂𝗍𝗁 𝖺𝗇 𝗂𝖽𝖾𝖺 𝗈𝖿 𝖼𝗈𝖽𝗂𝗇𝗀 𝖺 𝖻𝗈𝗍
+3✦𝗞𝗝 𝗦𝗛𝗔𝗥𝗞:𝖥𝗈𝗋 𝗌𝗁𝗈𝗐𝗂𝗇𝗀 𝖻𝗋𝗈𝗍𝗁𝖾𝗋𝗁𝗈𝗈𝖽
+4✦𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗚𝗢𝗗💞❣️🤗
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗔𝗡𝗗+𝗘𝗡𝗝𝗢𝗬+💞💫🤖💙)](https://git.io/typing-svg)
