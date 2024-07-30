@@ -47,6 +47,7 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 ➡️➡️[`𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯`](https://github.com/Carl165/CARLTECH-INFO)⬅️⬅️TAP HERE TO CONTACT ME 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗧𝗛𝗔𝗡𝗞𝗦+𝗧𝗢+𝗧𝗛𝗘+𝗙𝗢𝗟𝗟𝗢𝗪𝗜𝗡𝗚+💙💙💞)](https://git.io/typing-svg)
+
 1✦ 𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗔𝗗𝗔𝗠𝗦:𝖥𝗈𝗋 𝖺𝗌𝗌𝗂𝗌𝗍𝖺𝗇𝖼𝖾.𝗈𝗇 𝗆𝗈𝗌𝗍 𝖼𝗈𝗆𝗆𝖺𝗇𝖽𝗌
 
 2✦𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛:𝖥𝗈𝗋 𝖼𝗈𝗆𝗂𝗇𝗀 𝗎𝗉 𝗐𝗂𝗍𝗁 𝖺𝗇 𝗂𝖽𝖾𝖺 𝗈𝖿 𝖼𝗈𝖽𝗂𝗇𝗀 𝖺 𝖻𝗈𝗍
