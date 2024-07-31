@@ -6,7 +6,7 @@
 
 <p align="center"> ⚔️𝐂𝐀𝐑𝐋-𝐒𝐇𝐀𝐑𝐊⚔️ 🦈 𝐌𝐃 A Simple WhatsApp user BOT, Created by 𝑪𝑨𝑹𝑳 𝑾𝑰𝑳𝑳𝑰𝑨𝑴.
 <p align="centre"> Please follow the steps below to avoid bot sleeping  
-<img src="https://telegra.ph/file/75ba61c974c025746875b.jpg" width="700" height="600"/>
+<img src="https://telegra.ph/file/2dbd04ee414c874ec62de.jpg" width="700" height="600"/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   `
 
