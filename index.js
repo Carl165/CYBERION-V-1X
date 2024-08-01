@@ -866,20 +866,20 @@ ${metadata.desc}
 ┃❒Mode :${md}
 ┃❒Created on : *22.6.2024*
 ╿❒Total Commands : ${evt.cm.length}︎
-  ✦𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐂𝐀𝐑𝐋𝐓𝐄𝐂𝐇✦
+  
    
  
 
-╔═════════ 🧡💙💚🧡 ═════════╗
+╔══════════════════
 ╽☢ *𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓𝐄𝐃 𝐁𝐎𝐓 𝐆𝐑𝐎𝐔𝐏*
 ┃☢https://chat.whatsapp.com/LgBAp1KjbCBHsgZMKi46aO
 
-┃☢ *CONTACT THE DEVELOPER* 🪄 
+┃☢ *CONTACT THE DEVELOPER* 
 ┃☢https://wa.link/c9qf2z
 
 ┃☢ *TELEGRAM*
 ╿☢https://t.me/Carl
-┗━━━━━❂¤¤¤¤¤💖¤¤¤¤¤¤❂━━━━━┛
+┗━━━━━❂¤¤¤¤¤¤¤¤¤¤¤❂━━━━━┛
 
 
               *𝗦𝗛𝗔𝗥𝗞-𝗠𝗗*`;
