@@ -18,6 +18,8 @@
    ***Click➡️⏩️ [`𝑭𝑶𝑹𝑲🍴`](https://github.com/Carl165/CarlTech/fork) and `Star ☆repository`for encouragement.***
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
+ 
  2✅️,TO GET SESSION 🆔 CLICK[`𝐓𝐇𝐈𝐒💞🧡💜💙💚❣️𝐁𝐔𝐓𝐓𝐎𝐍𝐍`](https://github.com/Carl165/SESSION_SITE)TO GO TO THE SESSION-SITE AND GET THE SESSION ID
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
