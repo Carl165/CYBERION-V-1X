@@ -1,19 +1,22 @@
 const util = require('util');
 const fs = require('fs-extra');
-const { zokou } = require(__dirname + "/../carlwilliam");
-const { format } = require(__dirname + "/../carl/mesfonctions");
+const { zokou } = require(__dirname + "/../framework/zokou");
+const { format } = require(__dirname + "/../framework/mesfonctions");
 const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
+const more = String.fromCharCode(8206)
+const Taphere = more.repeat(4001)
 
 zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
-    let { cm } = require(__dirname + "/../carl//Tech");
+    let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
     var mode = "public";
     
     if ((s.MODE).toLocaleLowerCase() != "yes") {
         mode = "private";
+   
     }
 
 
