@@ -2,7 +2,7 @@
   "name":"CARL-SHARK-MD",
   "description":"Best whatsapp bot developed by Carl william",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/0c225f7da5616cdcbec80.jpg",
+  "logo":"https://telegra.ph/file/2dbd04ee414c874ec62de.jpg",
   "repository":"https://github.com/Carl165/CarlTech",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/0c225f7da5616cdcbec80.jpg",
+      "value":"https://telegra.ph/file/2dbd04ee414c874ec62de.jpg",
       "required":false
        
      },
