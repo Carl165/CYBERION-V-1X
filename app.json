@@ -1,9 +1,9 @@
 {
-  "name":"BMW-MD",
-  "description":"Best whatsapp bot developed by Ibrahim adams",
+  "name":"CARL-SHARK-MD",
+  "description":"Best whatsapp bot developed by Carl william",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/0c225f7da5616cdcbec80.jpg",
-  "repository":"https://github.com/ibraahadam/BMW-MD",
+  "repository":"https://github.com/Carl165/CarlTech",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BMW-MD",
+      "value":"CARL-SHARK-MD",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "𝐜𝐚𝐫𝐥 𝐰𝐢𝐥𝐥𝐢𝐚𝐦"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254739937062,254710772666"
+    "value": "254740271632,254770954948"
   },
     "WARN_COUNT":
   {
