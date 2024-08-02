@@ -663,14 +663,14 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = 'https://telegra.ph/file/37ad9456847e2ad3403e7.jpg';
+        ppgroup = 'https://telegra.ph/file/164dd0daed27a5330f912.jpg';
     }
 
     try {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `◇IBRAHIM-MD◇
+            let msg = `◇𝖢.𝖲𝖧𝖠𝖱𝖪-MD◇
 `;
              
             let membres = group.participants;
@@ -688,7 +688,7 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ${metadata.desc}
 
-📌Powred by *Ibrahim King*`;
+📌Powred by *Carl william*`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -858,32 +858,32 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗 CONNECTED 』*
+*『𝗖𝗔𝗥𝗟-𝗦𝗛𝗔𝗥𝗞-𝗠𝗗 𝗢𝗡𝗟𝗜𝗡𝗘』*
 
-     
-║❒Creator: *IBRAHIM ADAMS*
+◤━━━━━━━━━━━ ━━━━━━━━━━━◥     
+║❒Creator: *CARL WILLIAM*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *22.2.2024*
 ║❒Total Commands : ${evt.cm.length}︎
-
-   
+◣━━━━━━━━━━━ ━━━━━━━━━━━◢
+    ☆𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛☆  
  
 
 
-║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD
+║❒ *JOIN OUR WhatsApp Channel*
+https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
 
 ║❒ *CONTACT THE DEVELOPER* 🪄 
-https://wa.me/message/74F2PC4JA4F3P1
+https://wa.me/254740271632
 
-║❒ *YOUTUBE*
-https://www.youtube.com/@ibrahimaitech
-
-
+║❒ *TELEGRAM*
+https://t.me/Carl
 
 
-              *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*`;
+
+
+              *𝗦𝗛𝗔𝗥𝗞-𝗠𝗗*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
