@@ -35,13 +35,13 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
   DEVELOPER:☆CARL WILLIAM☆
-╭────》《ÇÅŘŁ☆ŢËÇĤ》《────|☆
+╭────》《𝗖𝗔𝗥𝗟☆𝗧𝗘𝗖𝗛》《────|☆
 🦁 *User* : ${s.OWNER_NAME}
 🦁 *Mode* : ${mode}
 🦁 *Commands* : ${cm.length} 
 🦁 *Time* : ${temps} 
 🦁 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-✅️  ■CARL♧SHARK 𝗠𝗗《《《《 
+✅️  ■𝗖𝗔𝗥𝗟♧𝗦𝗛𝗔𝗥𝗞 𝗠𝗗《《《《 
 ╰─────✨✨🦁✨✨─────|☆ \n\n`;
  
     let menuMsg=`  
@@ -63,7 +63,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *————— ✨ —————*
 
-  *ᵏⁱⁿᵍ ⁱᵇʳᵃʰⁱᵐ ᵗᵉᶜʰ 2024🏆*                                         
+  *carlwilliam 2024🏆*                                         
 *↪═════════════🔮*
 `;
 
