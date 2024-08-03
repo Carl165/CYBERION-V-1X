@@ -1,9 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "William", reaction: "📷", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "william", reaction: "📷", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'CARL-HD-PHOTO \n\n ' + "*ⁱᵇʳᵃʰⁱᵐ-ᵗᵉᶜʰ.*";
+    let z = 'CARL-HD-PHOTO \n\n ' + "*ᴄᴀʀʟ-ᴛᴇᴄʜ.*";
     let d = ' #KING'S';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/10293b39bc439c0abc513.jpg';
