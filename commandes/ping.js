@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { king } = require("../france/king");
 king({ nomCom: "ping", react"🚀", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '𝐏𝐈𝐍𝐆𝐈𝐍𝐆 𝐅𝐑𝐎𝐌⌛*Carl-𝗧𝗘𝗖𝗛* \n\n ' + "LOADING⏳..✨✨✨..100℅✅";
+    let z = '𝐏𝐈𝐍𝐆𝐈𝐍𝐆 𝐅𝐑𝐎𝐌⌛*𝗖𝗔𝗥𝗟-𝗧𝗘𝗖𝗛* \n\n ' + "LOADING⏳..✨✨✨..100℅✅";
     let d = '𝗣𝗢𝗡𝗚:1090000000𝗠𝗦⏳*';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/164dd0daed27a5330f912.jpg';
