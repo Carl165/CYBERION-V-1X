@@ -5,7 +5,7 @@ const { writeFile } = require('fs/promises')
 
 // Commande waifu
 zokou({
-  nomCom: "Carl",
+  nomCom: "carl",
   categorie: "Weeb",
   reaction: "😏"
 },
@@ -29,7 +29,7 @@ async (origineMessage, zk, commandeOptions) => {
 
 // Commande neko
 zokou({
-  nomCom: "William",
+  nomCom: "william",
   categorie: "Weeb",
   reaction: "😉"
 },
@@ -52,7 +52,7 @@ async (origineMessage, zk, commandeOptions) => {
 
 // Commande shinobu
 zokou({
-  nomCom: "King",
+  nomCom: "king",
   categorie: "Weeb",
   reaction: "👑"
 },
@@ -75,7 +75,7 @@ async (origineMessage, zk, commandeOptions) => {
 
 // Commande megumin
 zokou({
-  nomCom: "CarlTech",
+  nomCom: "carltech",
   categorie: "Weeb",
   reaction: "🦁"
 },
@@ -99,7 +99,7 @@ async (origineMessage, zk, commandeOptions) => {
 
 
 zokou({
-  nomCom: "Kingcarl",
+  nomCom: "kingcarl",
   categorie: "Weeb",
   reaction: "🫅"
 },
