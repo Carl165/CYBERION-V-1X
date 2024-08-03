@@ -1,4 +1,4 @@
-h"use strict";
+"use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { king } = require("../france/king");
 king({ nomCom: "ping", react"🚀", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
