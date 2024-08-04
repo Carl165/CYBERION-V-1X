@@ -7,7 +7,7 @@ zokou({ nomCom: "repo", reaction: "🦈", nomFichier: __filename }, async (dest,
     let d = ' https://github.com/CARL165/CarlTech';
     let varmess = z + d;
     var mp4 = 'https://telegra.ph/file/ff54cca772253fac85ea1.mp4';
-    await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
+    await zk.sendMessage(dest, { video: { url: mp4 }, caption: varmess });
     //console.log("montest")
 });
 console.log("mon test");
