@@ -858,32 +858,31 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝗖𝗔𝗥𝗟-𝗦𝗛𝗔𝗥𝗞-𝗠𝗗 𝗢𝗡𝗟𝗜𝗡𝗘』*
+*『𝗖𝗔𝗥𝗟-𝗦𝗛𝗔𝗥𝗞-𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗』*
 
-◤━━━━━━━━❂━━━━━━━━◥     
-║❒Creator: *CARL WILLIAM*
-║❒Prefix : [ ${prefixe} ]
-║❒Mode :${md}
-║❒Created on : *22.2.2024*
-║❒Total Commands : ${evt.cm.length}︎
-◣━━━━━━━━❂━━━━━━━━◢
+║☆Creator: *CARL WILLIAM*
+║∇Prefix : [ ${prefixe} ]
+║✦Mode :${md}
+║✦Created on : *22.2.2024*
+║✦Total Commands : ${evt.cm.length}︎
+
     ❂𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛❂ 
  
 
 
-║❒ *JOIN OUR WhatsApp Channel*
+║✦ *JOIN OUR WhatsApp Channel*
 https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
 
-║❒ *CONTACT THE DEVELOPER* 🪄 
+║✦ *CONTACT THE DEVELOPER* 🪄 
 https://wa.me/254740271632
 
-║❒ *TELEGRAM*
+║✦ *TELEGRAM*
 https://t.me/Carl
 
 
 
 
-              *𝗦𝗛𝗔𝗥𝗞-𝗠𝗗*`;
+              *𝗖𝗔𝗥𝗟-𝗦𝗛𝗔𝗥𝗞-𝗠𝗗*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
