@@ -51,7 +51,7 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "🏷" }, async (dest, 
   }
 });
 
-zokou({ nomCom: "dev", categorie: "General", reaction: "🏷" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "sos", categorie: "General", reaction: "🆘" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
