@@ -6,7 +6,7 @@ zokou({ nomCom: "repo", reaction: "🦈", nomFichier: __filename }, async (dest,
     let z = '𝗚𝗢𝗧𝗛𝗔🤛𝗠𝗚𝗢𝗧𝗛𝗘👊𝗧𝗛𝗜𝗦 𝗜𝗦 𝗖𝗔𝗥𝗟-𝗦𝗛𝗔𝗥𝗞 𝗠𝗗  \n\n ' + "𝗙𝗢𝗥𝗞 𝗔𝗡𝗗 𝗦𝗧𝗔𝗥 𝗧𝗛𝗘 𝗥𝗘𝗣𝗢 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗬𝗢𝗨𝗥 𝗢𝗪𝗡 𝗕𝗢𝗧 *CARL-SHARK MD*𝗥𝗘𝗣𝗢.*";
     let d = ' https://github.com/CARL165/CarlTech';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/2dbd04ee414c874ec62de.jpg';
+    var mp4 = 'https://telegra.ph/file/ff54cca772253fac85ea1.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
