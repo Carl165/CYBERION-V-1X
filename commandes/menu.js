@@ -35,18 +35,19 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭━━━━━∙⋆⋅𝐖𝐄𝐋𝐂𝐎𝐌𝐄😍⋆∙━━━━━╮
-🦾 DEVELOPER:☆CARL WILLIAM💫
-╭────》《𝗖𝗔𝗥𝗟☆𝗧𝗘𝗖𝗛》《────|🌀
+🦾 *Hello* : ${s.OWNER_NAME}
+╭────》《𝗖𝗔𝗥𝗟☆𝗧𝗘𝗖𝗛》《────|✦
 🥏 *User* : ${s.OWNER_NAME}
 🛸 *Mode* : ${mode}
 🚀 *Commands* : ${cm.length} 
 ⌚️ *Time* : ${temps} 
 ⚙️ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-⚔️  𝗖𝗔𝗥𝗟🦈𝗦𝗛𝗔𝗥𝗞 𝕄𝔻⚔️
+🖥 *Dev* : 𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠
+🤖 *System* : 𝗖𝗔𝗥𝗟🦈𝗦𝗛𝗔𝗥𝗞 𝕄𝔻⚔️
 ╚══•●❂✺❂✺❂✺❂✺❂✺❂•══╝ \n\n`;
  
     let menuMsg=`  
-🌀▐░░░░░░░░░░░░░░░░░▌🌀
+✦▐░░░░░░░░░░░░░░░░░▌✦
 ✨══✿══╡°˖✧✿✧˖°╞══✿════✨
 `;
 
@@ -57,7 +58,7 @@ const date = moment().format('DD/MM/YYYY');
 *✳* ${cmd}`;
         }
         menuMsg += `
-*☯═════════════🔮* \n`
+*☯═════════════💫* \n`
     }
 
     menuMsg += `
@@ -65,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 *◣──•~❉᯽❉~•──◢*
 
   *ᴄᴀʀʟ ᴡɪʟʟɪᴀᴍ 2024🏆*                                         
-*☯═════════════🔮*
+*☯═════════════💫*
 `;
 
    var lien = mybotpic();
