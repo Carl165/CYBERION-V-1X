@@ -859,13 +859,13 @@ ${metadata.desc}
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
 *『𝗖𝗔𝗥𝗟-𝗦𝗛𝗔𝗥𝗞-𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗』*
-
+┌──═━   ┈━═──
 ║☆Creator: *CARL WILLIAM*
-║∇Prefix : [ ${prefixe} ]
+║□Prefix : [ ${prefixe} ]
 ║✦Mode :${md}
-║✦Created on : *22.2.2024*
+║✦Created on : *22.6.2024*
 ║✦Total Commands : ${evt.cm.length}︎
-
+╰───┄ °❀
     ❂𝗖𝗔𝗥𝗟𝗧𝗘𝗖𝗛❂ 
  
 
