@@ -34,21 +34,27 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭━━━━━∙⋆⋅𝐖𝐄𝐋𝐂𝐎𝐌𝐄😍⋆∙━━━━━╮
-🦾 *Hello* : ${s.OWNER_NAME}
-╭────》《𝗖𝗔𝗥𝗟☆𝗧𝗘𝗖𝗛》《────|✦
-🥏 *Captain* : ${s.OWNER_NAME}
+╭━━━━∙⋆🙉⋅𝐖𝐄𝐋𝐂𝐎𝐌𝐄🙈⋆∙━━━━━╮
+👋 *Hello* : ${s.OWNER_NAME}
+╭────》《𝗖𝗔𝗥𝗟☆𝗧𝗘𝗖𝗛》《────|
 🛸 *Mode* : ${mode}
+╰────┄ °❀     ───┄ °❀──╯
 🚀 *Commands* : ${cm.length} 
 ⌚️ *Time* : ${temps} 
+└─────═━┈┈━═─────┘
 ⚙️ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+╚══❖═══☆★☆════❖══╝
 🖥 *Dev* : 𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠
+🪀 *Captain* : ${s.OWNER_NAME}
+└──═━┈━═──═━┈━═──═━┈━═──┘
+📡 *Platform* : Linux
 🤖 *System* : 𝗖𝗔𝗥𝗟🦈𝗦𝗛𝗔𝗥𝗞 𝕄𝔻⚔️
 ╚══•●❂✺❂✺❂✺❂✺❂✺❂•══╝ \n\n`;
  
     let menuMsg=`  
 ✦▐░░░░░░░░░░░░░░░░░▌✦
 ✨══✿══╡𝗦𝗛𝗔𝗥𝗞╞══✿════✨
+♡━━━━━♡꘎꘎♡━━━━━♡꘎꘎♡━━━♡
 `;
 
     for (const cat in coms) {
@@ -65,7 +71,8 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *◣──•~❉᯽❉~•──◢*
 
-  *ᴄᴀʀʟ ᴡɪʟʟɪᴀᴍ 2024🏆*                                         
+  *ᴄᴀʀʟ ᴡɪʟʟɪᴀᴍ 2024🏆* 
+  *▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄*
 *☯⋇⊶⊰❣⊱⊷⋇ ⋇⊶⊰❣⊱⊷⋇💫*
 `;
 
