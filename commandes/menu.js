@@ -40,15 +40,15 @@ const date = moment().format('DD/MM/YYYY');
 🛸 *Mode* : ${mode}
 ╰────┄ °❀     ───┄ °❀──╯
 🚀 *Commands* : ${cm.length} 
-⌚️ *Time* : ${temps} 
+⌚️ *Time* : ${temps}
 └─────═━┈┈━═─────┘
 ⚙️ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ╚══❖═══☆★☆════❖══╝
 🖥 *Dev* : 𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠
 🪀 *Captain* : ${s.OWNER_NAME}
-🔑 *ignition* : ${ PREFIXE}
+🔑 *ignition* : ${ s.PREFIXE}
 └──═━┈━═──═━┈━═──═━┈━═──┘
-📡 *Platform* : Linux
+📡 *Platform* : ${os.platform}
 🤖 *System* : 𝗖𝗔𝗥𝗟🦈𝗦𝗛𝗔𝗥𝗞 𝕄𝔻⚔️
 ╚══•●❂✺❂✺❂✺❂✺❂✺❂•══╝ \n\n`;
  
@@ -59,7 +59,7 @@ const date = moment().format('DD/MM/YYYY');
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭──╯♻* *${cat}* *♻⊷*`;
+        menuMsg += `*╭──╯♻* *${cat}* *♻*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
 *✳* ${cmd}`;
