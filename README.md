@@ -1,7 +1,7 @@
  <h1 align="center"> 𝑪𝑨𝑹𝑳 𝑾𝑰𝑳𝑳𝑰𝑨𝑴`𝑺 𝑪𝑶𝑫𝑬 </h1> 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝕮𝕬𝕽𝕷+𝕾𝕳𝕬𝕽𝕶+𝕸𝕯+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+CARL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗖𝗔𝗥𝗟+𝗦𝗛𝗔𝗥𝗞+𝗠𝗗+𝗕𝗬+𝗖𝗔𝗥𝗟)](https://git.io/typing-svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center"> ⚔️𝐂𝐀𝐑𝐋-𝐒𝐇𝐀𝐑𝐊⚔️ 🦈 𝐌𝐃 A Simple WhatsApp user BOT, Created by 𝑪𝑨𝑹𝑳 𝑾𝑰𝑳𝑳𝑰𝑨𝑴.
