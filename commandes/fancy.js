@@ -1,7 +1,7 @@
 const { zokou } = require("../framework/zokou");
 const fancy = require("../commandes/style");
 
-zokou({ nomCom: "fancy", categorie: "Fun", reaction: 🏖" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "fancy", categorie: "Fun", reaction: "🏖" }, async (dest, zk, commandeOptions) => {
     const { arg, repondre, prefixe } = commandeOptions;
     const id = arg[0]?.match(/\d+/)?.join('');
     const text = arg.slice(1).join(" ");
