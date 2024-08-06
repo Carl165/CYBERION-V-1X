@@ -34,47 +34,52 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭━━━━∙⋆🙉⋅𝐖𝐄𝐋𝐂𝐎𝐌𝐄🙈⋆∙━━━━━╮
+╭━━━∙⋆🙉⋅𝐖𝐄𝐋𝐂𝐎𝐌𝐄🙈⋆━━━╮
 👋 *Hello* : ${s.OWNER_NAME}
-╭────》《𝗖𝗔𝗥𝗟☆𝗧𝗘𝗖𝗛》《────|
+╭────》《𝗦𝗬𝗦𝗧𝗘𝗠》《────|
 🛸 *Mode* : ${mode}
-╰────┄ °❀     ───┄ °❀──╯
+🔑*ignition is* :${s.PREFIXE}
 🚀 *Commands* : ${cm.length} 
 ⌚️ *Time* : ${temps}
+🖥️*System* : 𝗖𝗔𝗥𝗟✦𝗦𝗛𝗔𝗥𝗞✦𝗠𝗗
 └─────═━┈┈━═─────┘
 ⚙️ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-╚══❖═══☆★☆════❖══╝
-🖥 *Dev* : 𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠
+╚══❖═══𝗜𝗡𝗙𝗢════❖══╝
+🖥 *Devlp* : 𝗖𝗔𝗥𝗟 𝗪𝗜𝗟𝗟𝗜𝗔𝗠
 🪀 *Captain* : ${s.OWNER_NAME}
-🔑 *ignition* : ${ s.PREFIXE}
 └──═━┈━═──═━┈━═──═━┈━═──┘
+◤━━━━━𝗕𝗢𝗧 𝗦𝗧𝗔𝗧𝗨𝗦━━━━━━◥
+🛡️*Security* : encrypted
 📡 *Platform* : ${os.platform}
-🤖 *System* : 𝗖𝗔𝗥𝗟🦈𝗦𝗛𝗔𝗥𝗞 𝕄𝔻⚔️
 ╚══•●❂✺❂✺❂✺❂✺❂✺❂•══╝ \n\n`;
  
-    let menuMsg=`  
+    let menuMsg=` 
+ > Whatsapp:https://254770954948
+ > Telegrm :https://t.me.carlltecch
+ > WACHANNEL :https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
+ > DEVELOPER :CARL WILLIAM
 ✦┌──═━┈━═────═━┈━═──┐✦
-✨══✿══╡𝗦𝗛𝗔𝗥𝗞╞══✿════✨
+✨══✿══╡𓃰╞══✿════✨
 ♡━━━━━♡꘎꘎♡━━━━━♡꘎꘎♡━━━♡
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭──╯♻* *${cat}* *♻⊷*`;
+        menuMsg += `*╭──╯♻* *${cat}* *♻✦*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
 *✳* ${cmd}`;
         }
         menuMsg += `
-*☯⋇⊶⊰❣⊱⊷⋇ ⋇⊶⊰❣⊱⊷⋇💫* \n`
+*☯◤━━━━━━━━━━━◥💫* \n`
     }
 
     menuMsg += `
-◇            ◇
-*◣──•~❉᯽❉~•──◢*
+           
+ *»»----------►*
 
   *ᴄᴀʀʟ ᴡɪʟʟɪᴀᴍ 2024🏆* 
   *▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄*
-*☯⋇⊶⊰❣⊱⊷⋇ ⋇⊶⊰❣⊱⊷⋇💫*
+*☯◣━━━━𓃰━━━━━━━◢💫*
 `;
 
    var lien = mybotpic();
