@@ -877,7 +877,7 @@ https://whatsapp.com/channel/0029Vak0genJ93wQXq3q6X3h
 https://wa.me/254740271632
 
 ║✦ *TELEGRAM*
-https://t.me/Carl
+https://t.me/carlltecch
 
 
 
