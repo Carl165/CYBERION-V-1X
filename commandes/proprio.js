@@ -6,7 +6,7 @@ const {zokou}=require("../framework/zokou")
 
 
 
-zokou({nomCom:"reboot",categorie:"Mods",reaction:"🤖"},async(dest,z,com)=>{
+zokou({nomCom:"reboot",categorie:"Mods",reaction:"☢️"},async(dest,z,com)=>{
 
 
   
