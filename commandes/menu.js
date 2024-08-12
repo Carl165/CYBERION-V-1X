@@ -54,6 +54,7 @@ const date = moment().format('DD/MM/YYYY');
 ⚉🛡️ Security : encrypted
 ⚉📡 *Platform* : ${os.platform}
 ✪🗺️ Region : Kenya
+✪☋️ Version : [5.1.×]
 ╚══•●❂✺❂✺❂✺❂✺❂✺❂•══╝ \n\n`;
  
     let menuMsg=` 
