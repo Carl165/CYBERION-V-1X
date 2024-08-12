@@ -27,7 +27,9 @@
 
 
 
-  3:⚙️ 🦁TO DEPLOY YOUR BOT🦁***Now [`𝑫𝑬𝑷𝑳𝑶𝒀 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/CarlTech/edit/tree/main?tab=readme-ov-file).***
+  https://dashboard.heroku.com/new?template=
+
+ 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗬𝗢𝗨𝗥 𝗙𝗢𝗥𝗞𝗘𝗗 𝗥𝗘𝗣𝗢 𝗪𝗜𝗧𝗛 𝗧𝗛𝗜𝗦  𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
