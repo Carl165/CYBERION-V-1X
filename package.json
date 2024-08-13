@@ -2,21 +2,21 @@
     "name": "BMW-MD",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ibrahim.js",
+    "start": "node index.js",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Flash",
+    "carl",
     "whatsapp",
     "whatsapp-bot",
-    "inrahimtech"
+    "ibraah"
   ],
-  "author": "Ibrahim Adams",
+  "author": "carl165",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
